@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to Amirson's GitHub! 👋
 
-<!--
-**dev-amirson/dev-amirson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Amirson, a Full Stack Developer with a penchant for creating efficient and scalable web applications. With a experience in developing Full Stack Applications, I've always been fascinated by the power of code and its ability to shape our digital world.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack**:
+- Frontend: React, Vue, Angular
+- Backend: Node.js, Ruby on Rails, Django, Flask, FastAPI
+- Database: PostgreSQL, MongoDB, MySQL
+- DevOps: AWS, GCP, Docker, Kubernetes, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **On the Horizon**:
+- Exploring the realms of Internet of Things (IoT).
+- Collaborating on open-source projects related to AI for Healthcare.
